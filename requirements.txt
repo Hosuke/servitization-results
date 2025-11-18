@@ -1,0 +1,5 @@
+markitdown[all]
+pandas
+# Optional for lemma fallback in detector.py
+# spacy
+# en-core-web-sm  # install via: python -m spacy download en_core_web_sm
