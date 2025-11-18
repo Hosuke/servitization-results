@@ -1,5 +1,7 @@
 # Servitization Detection Project
 
+For a Chinese description, see [`README_CN.md`](README_CN.md).
+
 This project detects 13 categories of services in annual report texts using a dictionary-based approach, and computes simple complementing/substituting service metrics and a supply-chain risk score.
 
 ## Structure
