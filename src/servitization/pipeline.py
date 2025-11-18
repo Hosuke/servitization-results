@@ -11,7 +11,7 @@ from .detector import process_company_item1s
 from .io_markitdown import convert_file_to_text
 
 
-FILENAME_PATTERN = re.compile(r"^([A-Za-z0-9]+)_(\d{4})")
+FILENAME_PATTERN = re.compile(r"^(.+)_([0-9]{4})$")
 
 
 def parse_company_year(path: Path):

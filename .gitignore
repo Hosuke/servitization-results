@@ -12,10 +12,10 @@ venv/
 .idea/
 .DS_Store
 
-# Data outputs
-/data/outputs/
-*.csv
-*.json
+# # Data outputs
+# /data/outputs/
+# *.csv
+# *.json
 
 # Logs
 *.log
